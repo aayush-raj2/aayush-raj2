@@ -1,38 +1,81 @@
-# 👋 Hi, I'm Aayush Raj
+<h1 align="center">Hi 👋, I'm AAYUSH RAJ</h1>
 
-🚀 Aspiring Software Engineer | 💻 B.Tech CSE (Software Engineering) @ SRM University  
-🔹 Passionate about C++, Java, Python, and problem-solving  
-🔹 Exploring Data Structures, Algorithms, and AI-based projects  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush-raj2&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-raj2&theme=tokyonight" alt="Streak stats" />
+  🚀 Aspiring Software Engineer | 💻 B.Tech CSE (Software Engineering) @ SRM University  
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayush-raj2&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aayush-raj2&theme=onedark&margin-w=15&margin-h=15" alt="aayush-raj2 trophies" />
+  </a> 
+</p>
+
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**  
+- 💬 Ask me about **C++, Java, Python, or Problem Solving**  
+- 📫 Reach me at **aayushr679@gmail.com**  
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/aayush-raj-0b3975318" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/aayush2104__?igsh=ajFscHljdzNqMHhs&utm_source=qr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/aayushr679" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced C++ (OOPs, STL, Inheritance, Polymorphism)  
-- Java (Exception Handling, String Manipulation)  
-- Data Structures & Algorithms  
-- AI & ML for Smart Applications  
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: [aayushr679@gmail.com](mailto:aayushr679@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/aayush-raj-0b3975318](https://linkedin.com/in/aayush-raj-0b3975318)  
-- 💻 GitHub: [github.com/aayush-raj2](https://github.com/aayush-raj2)
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush-raj2&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-raj2&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-raj2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
+</p>
 
 ---
-⭐️ *If you like my projects, don’t forget to star them!*
+
+<h3 align="left">🐍 Contribution Snake:</h3>
+<p align="center">
+  <img src="https://github.com/aayush-raj2/aayush-raj2/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
