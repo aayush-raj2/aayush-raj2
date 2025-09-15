@@ -73,9 +73,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-raj2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
----
-
-<h3 align="left">🐍 Contribution Snake:</h3>
-<p align="center">
-  <img src="https://github.com/aayush-raj2/aayush-raj2/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
